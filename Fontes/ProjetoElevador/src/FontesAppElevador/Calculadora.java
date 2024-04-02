@@ -1,6 +1,7 @@
 package FontesAppElevador;
 
 //Classe de entidade - Calculadora aritmética de apoio para estimar a carga do elevador
+// Soma Subtração Multiplicação e Divisão
 public class Calculadora {
 
 	//Atributo de resultado de cálculo
